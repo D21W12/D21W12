@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @D21W12
 - 👀 I’m interested in AI, CS & Physics
-- 🌱 I’m currently learning artificial intelligence at Radboud university, and started learning programming in september 2023
+- 🌱 I’m currently learning artificial intelligence at Radboud university, and started learning to program in september 2023
 - 💞️ I’m looking to collaborate on... nothing (yet®)
 - 📫 How to reach me: (soon®)
 
